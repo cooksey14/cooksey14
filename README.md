@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cooksey14
-- 👀 I’m interested in Rust, Javascript, security, and cloud computing infrastructure.
+- 👀 I’m interested in Rust, PKI, and cloud computing infrastructure.
 - 🌱 I’m currently learning Rust.
 
 <!---
